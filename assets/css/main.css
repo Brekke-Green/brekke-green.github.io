@@ -2318,8 +2318,16 @@ input, select, textarea {
 		}
 
 			ul.icons.major li {
-				padding-right: 3.5em;
+				padding-right: 1em;
+				font-size: 43px;
+				padding: 1em, 1em;
 			}
+
+				ul.icons.major p {
+					font-size: 20px;
+				}
+
+
 
 				@media screen and (max-width: 736px) {
 
