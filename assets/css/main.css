@@ -3644,6 +3644,11 @@ input, select, textarea {
 			#banner p a {
 				color: inherit;
 			}
+		
+		#banner div img {
+			height: 275px;
+			border-radius: 50%;
+		}
 
 		#banner .more {
 			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
